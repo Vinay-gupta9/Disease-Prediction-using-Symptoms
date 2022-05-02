@@ -3,7 +3,7 @@ We set out to create a system which can predict disease on the basis of symptoms
 # Problem Statement
 Health information needs are also changing the information seeking behavior and can be observed around the globe. Challenges faced by many people are looking online for health information regarding diseases, diagnoses and different treatments. If a recommendation system can be made for doctors and medicine while using review mining will save a lot of time. In this type of system, the user face problem in understanding the heterogeneous medical vocabulary as the users are laymen. User is confused because a large amount of medical information on different mediums are available.The idea behind recommender system is to adapt to cope with the special requirements of the health domain related with users.
 
-https://ibb.co/cyWqct6
+<a href="https://ibb.co/cyWqct6"><img src="https://i.ibb.co/TwQyBR4/Screenshot1.png" alt="Screenshot1" border="0" /></a>
 
 # Work Flow
 In this project we have used four different algorithms 
